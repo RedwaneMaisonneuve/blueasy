@@ -53,7 +53,10 @@
     margin-top: 4px;
 }
 
-.background{
+.blue{
+    height: 371px;
+    width: 1440px;
+    background-color: #4bcaff;
 
-    background-color: aqua;
+
 }
